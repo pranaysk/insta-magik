@@ -1,0 +1,2 @@
+# /usr/sbin/alternatives --config java
+      use this command to select java version from various versions installed in your linux machine
