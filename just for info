@@ -1,2 +1,8 @@
 # /usr/sbin/alternatives --config java
       use this command to select java version from various versions installed in your linux machine
+
+Run below command before "yum install jenkins"
+
+#wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat/jenkins.repo
+
+#rpm --import https://pkg.jenkins.io/redhat/jenkins.io.key
